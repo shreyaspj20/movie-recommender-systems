@@ -1,4 +1,4 @@
-# MOVIE RECOMMENDER SYSTEM
+# MOVIE RECOMMENDER
 
  we'll develop a very simple movie recommender system in Python that uses the correlation between the ratings assigned to different movies, in order to find the similarity between the movies.The dataset that we are going to use for this problem is the MovieLens Dataset . https://grouplens.org/datasets/movielens/latest/  .It contains a subset of the actual movie dataset and contains 100000 ratings for 9000 movies by 700 users.
 
